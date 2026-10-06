@@ -1,0 +1,15 @@
+import P23.Semigroup.FourBaseBudget
+
+open P23.Semigroup
+
+#print axioms FourGeneratedNumericalSemigroup.factorizationGraph_adj
+#print axioms FourGeneratedNumericalSemigroup.componentSupport_disjoint
+#print axioms FourGeneratedNumericalSemigroup.localSupportInequality
+#print axioms FourGeneratedNumericalSemigroup.singletonComponent_degree_unique
+#print axioms FourGeneratedNumericalSemigroup.singletonBettiOccurrence_card_le_four
+#print axioms FourGeneratedNumericalSemigroup.budgetDegreeFinite
+#print axioms FourGeneratedNumericalSemigroup.connectorCount
+#print axioms FourGeneratedNumericalSemigroup.componentConnectorGraph_connected
+#print axioms FourGeneratedNumericalSemigroup.fourBaseBudget_doubleCount
+#print axioms FourGeneratedNumericalSemigroup.fourBaseBudget_sum_le_four
+#print axioms FourGeneratedNumericalSemigroup.fourBaseBettiCombinatorics

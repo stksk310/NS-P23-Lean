@@ -1,0 +1,20 @@
+import P23.OneTie.ThreeBorderGeometry
+
+namespace P23.OneTie
+open P23.Artin
+variable {a b c : ℕ} [NeZero a]
+
+theorem standardSet_eq_of_borderFinset_eq {S T : Finset (Normal a b c)}
+    (hS : S.Nonempty) (hT : T.Nonempty) (hd : IsLiveParameterDomain a b c)
+    (he : borderFinset S = borderFinset T) : standardSet S = standardSet T := by
+  ext p
+  rw [standard_iff_no_border_divisor S hS hd,
+    standard_iff_no_border_divisor T hT hd,he]
+
+theorem rootFinset_eq_of_standardSet_eq {S T : Finset (Normal a b c)}
+    (hd : IsLiveParameterDomain a b c) (hS : IsRootAntichain S)
+    (hT : IsRootAntichain T) (he : standardSet S = standardSet T) : S = T :=
+  Finset.Subset.antisymm (roots_subset_of_standardSet_eq hd hS he)
+    (roots_subset_of_standardSet_eq hd hT he.symm)
+
+end P23.OneTie

@@ -1,0 +1,26 @@
+import P23.Presentation.KernelMinimality
+
+open P23.Presentation
+
+#print axioms polyVariableIdeal_eq_span_variables
+#print axioms mem_polyVariableIdeal_iff
+#print axioms tiePolynomial_ne_polynomialLift_of_border
+#print axioms presentationGeneratorFinset_card
+#print axioms relationDetector_tie_none
+#print axioms relationDetector_lift_none
+#print axioms relationDetector_tie_some
+#print axioms relationDetector_lift_some
+#print axioms relationDetector_mul_presentationGenerator_eq_zero
+#print axioms relationSpaceDetector_relationClass
+#print axioms relationSpaceDetector_displayedRelation
+#print axioms generatorRelationClasses_span_eq_top
+#print axioms relationDetectorIndex_card
+#print axioms relationSpaceDetector_surjective
+#print axioms presentationRelationSpace_finrank
+#print axioms relationSpaceDetector_bijective
+#print axioms finitePresentationIdeal_generator_card_lower_bound
+#print axioms finitePresentationIdeal_minimalGeneratorCard
+#print axioms polyToDirectAlg_kernel_minimalGeneratorCard
+#print axioms polyToDirectAlg_kernel_mu_eq_one_add_borderCard
+#print axioms kernel_mu_eq_five_iff_border_card_eq_four
+#print axioms polynomialKernelBorderCount

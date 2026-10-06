@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this formalization, please cite this software."
+title: "NS-P23-Lean"
+type: software
+version: "1.0.0"
+date-released: "2026-10-06"
+authors:
+  - family-names: "Sato"
+    given-names: "Keisuke"
+    affiliation: "Independent researcher, Japan"
+    orcid: "https://orcid.org/0009-0005-4230-0268"
+license: "Apache-2.0"

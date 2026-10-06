@@ -1,0 +1,7 @@
+import P23.Main
+
+#print axioms P23.high_relation_number_forces_almost_symmetric
+#print axioms P23.type_two_nearly_gorenstein_not_almost_symmetric
+#print axioms P23.type_three_nearly_gorenstein_not_almost_symmetric
+#print axioms P23.original_p23
+#print axioms P23.original_p23_of_type_two_or_three

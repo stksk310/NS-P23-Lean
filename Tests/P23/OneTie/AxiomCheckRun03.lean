@@ -1,0 +1,29 @@
+import P23
+
+#print axioms P23.OneTie.mem_borderFinset_iff
+#print axioms P23.OneTie.mixedPrincipalBorder_last
+#print axioms P23.OneTie.mixedPrincipalBorder_below
+#print axioms P23.OneTie.purePrincipalBorder_below
+#print axioms P23.OneTie.purePrincipalBorder_last
+#print axioms P23.OneTie.pure_xH_endpoint
+#print axioms P23.OneTie.mixedBorderYZ_exact
+#print axioms P23.OneTie.mixedBorderYP_exact
+#print axioms P23.OneTie.mixedBorderYQ_exact
+#print axioms P23.OneTie.mixedBorderZP_exact
+#print axioms P23.OneTie.mixedBorderZQ_exact
+#print axioms P23.OneTie.mixedBorderPQ_exact
+#print axioms P23.OneTie.mixedBorderYZ_card
+#print axioms P23.OneTie.mixedBorderYP_card
+#print axioms P23.OneTie.mixedBorderYQ_card
+#print axioms P23.OneTie.mixedBorderZP_card
+#print axioms P23.OneTie.mixedBorderZQ_card
+#print axioms P23.OneTie.mixedBorderPQ_card
+#print axioms P23.OneTie.wrappedPredecessor_zY_c_eq_one
+#print axioms P23.OneTie.mixedDominant_card_eq_four_survivors
+#print axioms P23.OneTie.pureDominantBorder_below_exact
+#print axioms P23.OneTie.pureDominantBorder_last_exact
+#print axioms P23.OneTie.pureDominantBorder_below_card
+#print axioms P23.OneTie.pureDominantBorder_last_card
+#print axioms P23.OneTie.pureDominant_card_of_pos
+#print axioms P23.OneTie.pureDominant_card_of_zero
+#print axioms P23.OneTie.pureDominant_card_ne_four

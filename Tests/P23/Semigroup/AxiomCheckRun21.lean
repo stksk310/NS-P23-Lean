@@ -1,0 +1,28 @@
+import P23.Semigroup.ChosenBaseType
+
+open P23.Semigroup
+
+#print axioms FourGeneratedNumericalSemigroup.intInGamma_natCast
+#print axioms FourGeneratedNumericalSemigroup.isPseudoFrobenius_iff_generators
+#print axioms FourGeneratedNumericalSemigroup.pseudoFrobeniusEquivAperySocle
+#print axioms FourGeneratedNumericalSemigroup.pseudoFrobenius_card_eq_aperySocle_card
+#print axioms tailVariableA_mul_A_eq_zero_iff
+#print axioms tailVariableA_isNilpotent
+#print axioms aperyAugmentationAlgHom
+#print axioms aperyAugmentationAlgHom_ker
+#print axioms aperyAugmentationIdeal_isMaximal
+#print axioms aperyMaximalIdeal_eq_augmentationIdeal
+#print axioms aperyIsLocalRing
+#print axioms mem_aperySocle_iff_tail_variables
+#print axioms A_mem_aperySocle_iff
+#print axioms aperySocle_eq_rootSpan
+#print axioms aperySocleBasis_linearIndependent
+#print axioms aperySocleBasis
+#print axioms aperyType_eq_semigroupType
+#print axioms chosenBaseIsLocalRing
+#print axioms chosenBaseMaximalIdeal_eq_augmentationIdeal
+#print axioms mem_chosenBaseSocle_iff_equiv_mem_aperySocle
+#print axioms chosenBaseSocleEquivAperySocle
+#print axioms chosenBaseType_eq_semigroupType
+#print axioms chosenBaseType_eq_three_iff
+#print axioms chosenBaseTypeBridge

@@ -1,0 +1,32 @@
+import P23.Semigroup.ChosenBase
+
+open P23.Semigroup
+
+#check FourGeneratedNumericalSemigroup
+#check FourGeneratedNumericalSemigroup.mem_Gamma_iff
+#check FourGeneratedNumericalSemigroup.factorizations
+#check FourGeneratedNumericalSemigroup.tailIndex
+#check FourGeneratedNumericalSemigroup.tailGen
+#check FourGeneratedNumericalSemigroup.zero_isApery
+#check FourGeneratedNumericalSemigroup.base_not_isApery
+#check FourGeneratedNumericalSemigroup.tail_isApery
+#check FourGeneratedNumericalSemigroup.mem_aperyFinset
+#check T_zero
+#check T_add
+#check AperyArtin.A_mul_A
+#check semigroupToAperyAlg_T
+#check semigroupToAperyAlg_ker
+#check chosenBaseEquivApery
+#check tailPolyToChosenBase_monomial
+#check tailPolyToChosenBase_surjective
+#check tailVariable_ne_zero
+#check aperyAugmentationIdeal_eq_tailVariableIdeal
+#check A_mem_aperyAugmentationSquare_of_ne_tail
+#check tailVariableA_not_mem_aperyAugmentationSquare
+#check tail_linearCombination_mem_aperyAugmentationSquare_iff
+#check ChosenBaseCotangentBasis
+#check chosenBase_embeddingDimension_eq_three
+#check chosenBaseDefiningIdeal
+#check tailPolynomialQuotientEquiv
+#check ChosenBaseFoundation
+#check chosenBaseFoundation

@@ -1,0 +1,22 @@
+import P23.Presentation.QuotientDualTrace
+
+#print axioms P23.Presentation.quotientIsLocalRing
+#print axioms P23.Presentation.mem_quotientAugmentationIdeal_iff
+#print axioms P23.Presentation.quotientMaximalIdeal_eq_augmentationIdeal
+#print axioms P23.Presentation.quotientMaximalIdeal_mem_iff
+#print axioms P23.Presentation.mem_quotientSocle_iff_equiv_mem_directSocle
+#print axioms P23.Presentation.quotientSocleEquivDirectSocle
+#print axioms P23.Presentation.quotientSocle_finrank_eq_card
+#print axioms P23.Presentation.quotientType_eq_rootCard
+#print axioms P23.Presentation.quotientType_eq_three_iff
+#print axioms P23.Presentation.quotientOmegaEquivDirectOmega
+#print axioms P23.Presentation.quotientOmegaEquivDirectOmega_apply_equiv
+#print axioms P23.Presentation.quotientOmegaEquivDirectOmega_smul
+#print axioms P23.Presentation.pushCanonicalHom
+#print axioms P23.Presentation.pullCanonicalHom
+#print axioms P23.Presentation.pull_pushCanonicalHom
+#print axioms P23.Presentation.push_pullCanonicalHom
+#print axioms P23.Presentation.mem_quotientTrace_iff_equiv_mem_directTrace
+#print axioms P23.Presentation.quotientNearlyGorenstein_iff_directNearlyGorenstein
+#print axioms P23.Presentation.finiteQuotientArtinTransport
+

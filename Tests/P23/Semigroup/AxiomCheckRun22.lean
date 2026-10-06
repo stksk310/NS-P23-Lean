@@ -1,0 +1,34 @@
+import P23.Semigroup.ChosenBaseTrace
+
+#print axioms P23.Semigroup.semigroupNearlyGorenstein_iff_ngVector
+#print axioms P23.Semigroup.exists_ngWitness
+#print axioms P23.Semigroup.exists_base_ngWitness
+#print axioms P23.Semigroup.exists_tail_ngWitness
+#print axioms P23.Semigroup.AperyOmega.smul_apply
+#print axioms P23.Semigroup.aperyDualBasis
+#print axioms P23.Semigroup.AU_apply_A
+#print axioms P23.Semigroup.A_smul_AU_apply_A
+#print axioms P23.Semigroup.A_smul_AU_eq_AU
+#print axioms P23.Semigroup.A_smul_AU_eq_zero
+#print axioms P23.Semigroup.exists_aperySocle_above
+#print axioms P23.Semigroup.reflectionCenter_all_apery
+#print axioms P23.Semigroup.reflectionGamma_val
+#print axioms P23.Semigroup.reflectionLinearMap_AU
+#print axioms P23.Semigroup.reflectionLinearMap_map_smul
+#print axioms P23.Semigroup.reflectionCanonicalHom
+#print axioms P23.Semigroup.pseudoFrobeniusEquivAperySocle_val
+#print axioms P23.Semigroup.tail_ngWitness_reflectionCenter
+#print axioms P23.Semigroup.reflectionCanonicalHom_AU_pf_eq_tailVariableA
+#print axioms P23.Semigroup.aperyTrace_range_le
+#print axioms P23.Semigroup.tailVariableA_mem_aperyTrace
+#print axioms P23.Semigroup.semigroupNearlyGorenstein_to_aperyNearlyGorenstein
+#print axioms P23.Semigroup.ChosenBaseOmega.smul_apply
+#print axioms P23.Semigroup.chosenBaseOmegaEquivAperyOmega_smul
+#print axioms P23.Semigroup.chosenBaseOmegaEquivAperyOmega_symm_smul
+#print axioms P23.Semigroup.pull_pushChosenBaseCanonicalHom
+#print axioms P23.Semigroup.push_pullChosenBaseCanonicalHom
+#print axioms P23.Semigroup.mem_chosenBaseTrace_iff_equiv_mem_aperyTrace
+#print axioms P23.Semigroup.chosenBaseNearlyGorenstein_iff_aperyNearlyGorenstein
+#print axioms P23.Semigroup.semigroupNearlyGorenstein_to_chosenBaseNearlyGorenstein
+#print axioms P23.Semigroup.semigroup_type_three_ng_gives_chosenBase_type_three_ng
+#print axioms P23.Semigroup.chosenBaseNGBridge

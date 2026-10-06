@@ -1,0 +1,26 @@
+import P23.Semigroup.ChosenBase
+
+open P23.Semigroup
+
+#print axioms FourGeneratedNumericalSemigroup.mem_Gamma_iff
+#print axioms FourGeneratedNumericalSemigroup.tail_isApery
+#print axioms FourGeneratedNumericalSemigroup.isApery_lt
+#print axioms FourGeneratedNumericalSemigroup.apery_factorization_base_eq_zero
+#print axioms AperyArtin.A_mul_A
+#print axioms semigroupToAperyAlg_ker
+#print axioms chosenBaseEquivApery
+#print axioms tailDegree_eq_tailGen_iff
+#print axioms tailPolyToApery_monomial
+#print axioms tailPolyToApery_surjective
+#print axioms tailPolyToChosenBase_surjective
+#print axioms tailPolyToChosenBase_monomial
+#print axioms tailVariable_ne_zero
+#print axioms positive_basis_mul_tailCoeff_zero
+#print axioms aperyAugmentationIdeal_eq_tailVariableIdeal
+#print axioms A_mem_aperyAugmentationSquare_of_ne_tail
+#print axioms aperyFirstOrderAlgHom
+#print axioms aperyFirstOrder_eq_zero_of_mem_square
+#print axioms tailVariableA_not_mem_aperyAugmentationSquare
+#print axioms tail_linearCombination_mem_aperyAugmentationSquare_iff
+#print axioms chosenBase_embeddingDimension_eq_three
+#print axioms tailPolynomialQuotientEquiv

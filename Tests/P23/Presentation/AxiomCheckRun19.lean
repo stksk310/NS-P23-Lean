@@ -1,0 +1,9 @@
+import P23.Presentation.HL5Quotient
+
+#print axioms P23.Presentation.rootCard_eq_three_of_quotientType_eq_three
+#print axioms P23.Presentation.directNearlyGorenstein_of_quotientNearlyGorenstein
+#print axioms P23.Presentation.mixed_quotient_HL5_border_ne_four
+#print axioms P23.Presentation.pure_quotient_HL5_border_ne_four
+#print axioms P23.Presentation.mixed_quotient_HL5_kernel_mu_ne_five
+#print axioms P23.Presentation.pure_quotient_HL5_kernel_mu_ne_five
+#print axioms P23.Presentation.canonicalFiniteQuotient_HL5

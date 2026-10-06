@@ -1,0 +1,30 @@
+import P23.Semigroup.TypeThreeLowerBound
+
+#print axioms P23.Monomial.plain_axis_bound_border
+#print axioms P23.Monomial.exists_plain_pure_axis_border
+#print axioms P23.Monomial.plain_axis_border_injective
+#print axioms P23.Monomial.plain_border_card_ge_three_of_variables_survive
+#print axioms P23.Monomial.plain_small_border_eq_axis_triple
+#print axioms P23.Monomial.plain_small_minimal_presentation_standard_box
+#print axioms P23.Monomial.plain_small_minimal_presentation_root_card_one
+#print axioms P23.OneTie.standardSet_eq_of_borderFinset_eq
+#print axioms P23.OneTie.rootFinset_eq_of_standardSet_eq
+#print axioms P23.OneTie.mixed_live_border_card_ge_two
+#print axioms P23.OneTie.pure_live_border_card_ge_two
+#print axioms P23.OneTie.live_one_tie_border_card_ge_two
+#print axioms P23.OneTie.two_border_eq_pair
+#print axioms P23.OneTie.singleton_normal_root_antichain
+#print axioms P23.OneTie.mixed_live_two_border_root_card_one
+#print axioms P23.OneTie.pure_live_two_border_root_card_one
+#print axioms P23.OneTie.live_two_border_root_card_one
+#print axioms P23.OneTie.live_two_border_quotient_type_eq_one
+#print axioms P23.Semigroup.exists_base_budget_le_one
+#print axioms P23.Semigroup.budget_zero_rho_le_three_semigroupType_eq_one
+#print axioms P23.Semigroup.budget_one_rho_le_three_semigroupType_eq_one
+#print axioms P23.Semigroup.semigroupRho_le_three_imp_type_one
+#print axioms P23.Semigroup.semigroupType_ne_one_imp_rho_ge_four
+#print axioms P23.Semigroup.type_two_semigroupRho_ge_four
+#print axioms P23.Semigroup.type_three_semigroupRho_ge_four
+#print axioms P23.Semigroup.smallPresentationBaseline
+#print axioms P23.Semigroup.type_three_ng_semigroupRho_ge_six
+#print axioms P23.Semigroup.typeThreeLowerBound

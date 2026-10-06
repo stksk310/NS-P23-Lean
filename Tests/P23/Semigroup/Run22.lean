@@ -1,0 +1,55 @@
+import P23.Semigroup.NearlyGorenstein
+import P23.Semigroup.AperyDualTrace
+import P23.Semigroup.ChosenBaseTrace
+
+namespace P23.Semigroup.Run22Tests
+
+open P23.Semigroup
+
+#check NGWitnessForGenerator
+#check SemigroupNearlyGorenstein
+#check semigroupNearlyGorenstein_iff_ngVector
+#check exists_ngWitness
+#check exists_base_ngWitness
+#check exists_tail_ngWitness
+
+#check AperyOmega
+#check AperyOmega.smul_apply
+#check aperyDualBasis
+#check AU
+#check AU_apply_A
+#check A_smul_AU_apply_A
+#check exists_aperySocle_above
+#check IsAperyReflectionCenter
+#check reflectionCenter_all_apery
+#check reflectionGamma
+#check reflectionGamma_val
+#check reflectionMonomial
+#check reflectionLinearMap
+#check reflectionCanonicalHom
+#check tail_ngWitness_reflectionCenter
+#check reflectionCanonicalHom_AU_pf_eq_tailVariableA
+#check AperyTraceSubmodule
+#check aperyTrace_range_le
+#check AperyNearlyGorenstein
+#check semigroupNearlyGorenstein_to_aperyNearlyGorenstein
+
+#check ChosenBaseOmega
+#check ChosenBaseOmega.smul_apply
+#check chosenBaseOmegaEquivAperyOmega
+#check chosenBaseOmegaEquivAperyOmega_smul
+#check pushChosenBaseCanonicalHom
+#check pullChosenBaseCanonicalHom
+#check pull_pushChosenBaseCanonicalHom
+#check push_pullChosenBaseCanonicalHom
+#check ChosenBaseTraceSubmodule
+#check chosenBaseTrace_range_le
+#check mem_chosenBaseTrace_iff_equiv_mem_aperyTrace
+#check ChosenBaseNearlyGorenstein
+#check chosenBaseNearlyGorenstein_iff_aperyNearlyGorenstein
+#check semigroupNearlyGorenstein_to_chosenBaseNearlyGorenstein
+#check semigroup_type_three_ng_gives_chosenBase_type_three_ng
+#check ChosenBaseNGBridge
+#check chosenBaseNGBridge
+
+end P23.Semigroup.Run22Tests

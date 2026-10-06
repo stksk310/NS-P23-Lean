@@ -1,0 +1,26 @@
+import P23.Presentation.FinitePolynomialQuotient
+
+open P23 P23.OneTie P23.Artin P23.Presentation
+
+#print axioms polyToNormalAlg_polynomialLift
+#print axioms polynomialLift_injective
+#print axioms tiePolynomial_mem_finitePresentationIdeal
+#print axioms polynomialLift_mem_finitePresentationIdeal_of_border
+#print axioms polynomialBorderIdeal_map
+#print axioms borderMonomialIdeal_comap
+#print axioms killedMonomialIdeal_comap
+#print axioms polyToDirectAlg_monomial
+#print axioms polyToDirectAlg_polyX
+#print axioms polyToDirectAlg_polyY
+#print axioms polyToDirectAlg_polyZ
+#print axioms polyToDirectAlg_surjective
+#print axioms polyToDirectAlg_ker
+#print axioms finitePolynomialQuotientEquiv_mk
+#print axioms finitePolynomialQuotientEquiv_polyX
+#print axioms finitePolynomialQuotientEquiv_polyY
+#print axioms finitePolynomialQuotientEquiv_polyZ
+#print axioms finitePolynomialQuotientEquiv_monomial
+#print axioms finitePolynomialQuotientEquiv_polynomialLift_of_mem
+#print axioms finitePolynomialQuotientEquiv_polynomialLift_of_border
+#print axioms span_presentationGeneratorFinset
+#print axioms directModel_as_polynomialQuotient

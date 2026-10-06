@@ -1,0 +1,8 @@
+import P23.Semigroup.RhoFiveExclusion
+
+#print axioms P23.Semigroup.canonicalQuotient_HL5_border_ne_four_of_liveDomain
+#print axioms P23.Semigroup.chosenBaseCanonicalOneTie_HL5_border_ne_four
+#print axioms P23.Semigroup.chosenBaseCanonicalOneTie_border_card_eq_four_of_rho_five
+#print axioms P23.Semigroup.budget_one_type_three_ng_rho_ne_five
+#print axioms P23.Semigroup.type_three_ng_semigroupRho_ne_five
+#print axioms P23.Semigroup.rhoFiveExclusion

@@ -1,0 +1,27 @@
+import P23.Presentation.MonomialQuotient
+
+#print axioms P23.Presentation.monomial_coeff
+#print axioms P23.Presentation.monomial_mul
+#print axioms P23.Presentation.truncatedMonomial_one
+#print axioms P23.Presentation.truncatedMonomial_mul
+#print axioms P23.Presentation.truncateAlgHom_monomial_of_mem
+#print axioms P23.Presentation.truncateAlgHom_monomial_of_not_mem
+#print axioms P23.Presentation.coeff_truncateAlgHom
+#print axioms P23.Presentation.truncateAlgHom_surjective
+#print axioms P23.Presentation.monomial_mem_killedMonomialIdeal
+#print axioms P23.Presentation.killedMonomialIdeal_le_ker
+#print axioms P23.Presentation.ker_le_killedMonomialIdeal
+#print axioms P23.Presentation.truncateAlgHom_ker
+#print axioms P23.Presentation.normalWeight_mul
+#print axioms P23.Presentation.normalWeight_pos_of_ne_one
+#print axioms P23.Presentation.normalWeight_lt_of_proper_dvd
+#print axioms P23.Presentation.killed_has_border_divisor
+#print axioms P23.Presentation.monomial_mem_borderMonomialIdeal_of_dvd
+#print axioms P23.Presentation.borderMonomialIdeal_le_killedMonomialIdeal
+#print axioms P23.Presentation.killedMonomialIdeal_le_borderMonomialIdeal
+#print axioms P23.Presentation.borderMonomialIdeal_eq_killedMonomialIdeal
+#print axioms P23.Presentation.normalMonomialQuotientEquiv_mk
+#print axioms P23.Presentation.normalMonomialQuotientEquiv_monomial_of_mem
+#print axioms P23.Presentation.normalMonomialQuotientEquiv_monomial_of_not_mem
+#print axioms P23.Presentation.borderMonomialQuotientEquiv_monomial
+#print axioms P23.Presentation.directModel_as_normalMonoidQuotient

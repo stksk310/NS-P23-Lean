@@ -1,0 +1,38 @@
+import P23.Semigroup.PseudoFrobenius
+import P23.Semigroup.ChosenBaseType
+
+namespace P23.Semigroup.Run21Tests
+
+open P23.Semigroup
+
+#check IntInGamma
+#check FourGeneratedNumericalSemigroup.IsPseudoFrobenius
+#check FourGeneratedNumericalSemigroup.isPseudoFrobenius_iff_generators
+#check FourGeneratedNumericalSemigroup.PseudoFrobeniusIndex
+#check FourGeneratedNumericalSemigroup.semigroupType
+#check FourGeneratedNumericalSemigroup.AperySocleIndex
+#check FourGeneratedNumericalSemigroup.pseudoFrobeniusEquivAperySocle
+#check FourGeneratedNumericalSemigroup.pseudoFrobenius_card_eq_aperySocle_card
+#check tailVariableA_mul_A_eq_zero_iff
+#check aperyAugmentationAlgHom
+#check aperyAugmentationAlgHom_ker
+#check aperyAugmentationIdeal_isMaximal
+#check aperyMaximalIdeal_eq_augmentationIdeal
+#check aperyIsLocalRing
+#check AperySocle
+#check mem_aperySocle_iff_tail_variables
+#check A_mem_aperySocle_iff
+#check aperySocle_eq_rootSpan
+#check aperySocleBasis
+#check aperyType
+#check aperyType_eq_semigroupType
+#check chosenBaseIsLocalRing
+#check ChosenBaseSocle
+#check chosenBaseSocleEquivAperySocle
+#check chosenBaseType
+#check chosenBaseType_eq_semigroupType
+#check chosenBaseType_eq_three_iff
+#check ChosenBaseTypeBridge
+#check chosenBaseTypeBridge
+
+end P23.Semigroup.Run21Tests

@@ -1,0 +1,7 @@
+import P23.OneTie.RhoFourMixedClassification
+import P23.OneTie.RhoFourPureClassification
+open P23.OneTie
+#check roots_card_le_of_standardSet_eq
+#check mixed_three_border_support_classification
+#check pure_three_border_support_classification
+#check pure_y_xz_three_border_roots_exact
